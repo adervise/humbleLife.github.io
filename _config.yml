@@ -108,9 +108,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "겸손하게 코딩하자"
+  name             : "겸손하게"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "겸손하지만 불꽃같이 뜨겁게"
+  bio              : "내면은 불꽃같이 뜨겁게"
   location         : "서울시 어딘가"
   email            : "adervise1@gmail.com"
   links:
