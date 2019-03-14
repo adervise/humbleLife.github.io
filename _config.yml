@@ -108,11 +108,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "겸손하게 코딩하자"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "겸손하지만 불꽃같이 뜨겁게"
+  location         : "서울시 어딘가"
+  email            : "adervise1@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
